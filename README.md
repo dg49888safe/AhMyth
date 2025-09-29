@@ -1,5 +1,7 @@
+npm run build:win64
+
 <div align="center">
-  <picture>
+npm run build:win64  <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/IMG/Oval-logo.png">
     <img alt="AhMyth" src=".github/IMG/Oval-logo dark.png" width="556">
   </picture>
