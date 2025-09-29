@@ -9,7 +9,7 @@
     "build": {
         "appId": "Ahmyth.android.rat",
         "win": {
-            "publisherName": "AhMyth",
+            "publisherName": "AhMyth20250929",
             "icon": "build/icon.ico"
         },
         "asarUnpack": "**/app/Factory/**/*"
